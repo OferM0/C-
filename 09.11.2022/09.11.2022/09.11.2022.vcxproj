@@ -127,21 +127,34 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="Animal.cpp" />
     <ClCompile Include="Base.cpp" />
+    <ClCompile Include="Cat.cpp" />
     <ClCompile Include="Child.cpp" />
     <ClCompile Include="class.cpp" />
+    <ClCompile Include="Dad.cpp" />
+    <ClCompile Include="Dog.cpp" />
+    <ClCompile Include="homeWork.cpp" />
     <ClCompile Include="ItemPrice.cpp" />
     <ClCompile Include="ItemPriceEilat.cpp" />
+    <ClCompile Include="Kid.cpp" />
     <ClCompile Include="Reader.cpp" />
     <ClCompile Include="ReaderRunner.cpp" />
+    <ClCompile Include="Runner.cpp" />
   </ItemGroup>
   <ItemGroup>
+    <ClInclude Include="Animal.h" />
     <ClInclude Include="Base.h" />
+    <ClInclude Include="Cat.h" />
     <ClInclude Include="Child.h" />
+    <ClInclude Include="Dad.h" />
+    <ClInclude Include="Dog.h" />
     <ClInclude Include="ItemPrice.h" />
     <ClInclude Include="ItemPriceEilat.h" />
+    <ClInclude Include="Kid.h" />
     <ClInclude Include="Reader.h" />
     <ClInclude Include="ReaderRunner.h" />
+    <ClInclude Include="Runner.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

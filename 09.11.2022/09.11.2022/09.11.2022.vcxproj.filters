@@ -36,6 +36,27 @@
     <ClCompile Include="ItemPriceEilat.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="homeWork.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Dad.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Kid.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Runner.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Animal.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Dog.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Cat.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="Reader.h">
@@ -54,6 +75,24 @@
       <Filter>Header Files</Filter>
     </ClInclude>
     <ClInclude Include="ItemPriceEilat.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Dad.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Kid.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Runner.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Animal.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Dog.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Cat.h">
       <Filter>Header Files</Filter>
     </ClInclude>
   </ItemGroup>

@@ -13,11 +13,13 @@ int Base::AddNum(int anum)
 int Base::IAmPrivate(int anum)
 {
 	num2 = anum;
+	return 0;
 }
 
 int Base::IAmProtected(int anum)
 {
 	num4 = anum;
+	return 0;
 }
 
 int Base::Calc()

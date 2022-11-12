@@ -8,7 +8,7 @@
 #include "ItemPriceEilat.h"
 #pragma warning(disable:4996)
 
-int main()
+int main1()
 {
 	/*
 	char listName[100], listText[100];
@@ -23,21 +23,23 @@ int main()
 		List.Write(listText);
 	}
 
-	List.Print();*/
+	List.Print();
 
-	/*
+	
 	ReaderRunner runner;
-	runner.Run();/*
+	runner.Run();*/
 
-	/*
+	
 	Base b;
 	b.AddNum(10);
 	int num = b.Calc();
 
 	Child c;
 	c.AddNum(5);
-	num = c.AddNum(12);*/
+	num = c.AddNum(12);
 
 	ItemPriceEilat e;
-	int num=e.Calc(100);
+	int num2=e.Calc(100);
+
+	return 0;
 }
